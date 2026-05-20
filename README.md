@@ -1,4 +1,4 @@
-.# IntelliExtinguish-Voice-Operated-Fire-Extinguishing-Vehicle
+VOICE OPERATED FIRE EXTINGUISHING VEHICLE
 Project Introduction
 
 The Voice Controlled Smart Fire Fighting Robot is an embedded systems and robotics project designed to assist in firefighting operations while minimizing human involvement in dangerous situations. The robot can be operated remotely through voice instructions given from a smartphone application.
